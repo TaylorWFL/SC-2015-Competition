@@ -1,4 +1,4 @@
-# 2015 Silent Circle Intership Challenge
+# 2015 Silent Circle Internship Challenge
 
 Welcome to Silent Circle's 2015 Internship Challenge. The format of the competition is as follows:
 
