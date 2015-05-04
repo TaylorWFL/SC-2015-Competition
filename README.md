@@ -1,6 +1,6 @@
-# SC-2015-Competition
+# 2015 Silent Circle Intership Challenge
 
-Welcome to Silent Circle's 2015 Internship Competition. The format of the competition is as follows:
+Welcome to Silent Circle's 2015 Internship Challenge. The format of the competition is as follows:
 
 When the competition begins, the repo will be filled with folders containing challenge questions of varying difficulty. Each folder will have a specific topic and each challenge question will have a point-value assigned to it. The harder the question, the more points it will be worth.
 
