@@ -10,4 +10,6 @@ To submit your results send them packaged in a zip file to gkuruc@silentcircle.c
 
 If at anytime during the competition you have any questions, feel free to email gkuruc@silentcircle.com and we will try to get back to you ASAP!
 
+Your answers must be submitted by 11:59pm EST, Friday, May 15, 2015.
+
 Good luck!
